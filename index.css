@@ -1,17 +1,17 @@
-.half-page-image {
+half-page-image {
   width: 50%;
   display: inline-block;
 }
 
-.third-page-image {
+third-page-image {
   width: 33%;
   display: inline-block;
 }
 
-.li {
+li {
   align="left" style="text-align: left; margin-left:-20px;"
 }
 
-.img {
+img {
   width="178.35" height="100"
 }
