@@ -38,3 +38,14 @@ a:link {
 a:visited {
     color: purple;
 }
+
+
+figcaption {
+  padding: 5px;
+  font-size: 60%;
+  font-weight: 0;
+  border: none;
+  background: transparent;
+  word-wrap:normal;
+
+}
