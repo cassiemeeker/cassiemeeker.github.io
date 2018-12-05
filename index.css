@@ -1,0 +1,8 @@
+.half-page-image {
+  width: 50%;
+  display: inline-block;
+}
+
+.li {
+  align="left" style="text-align: left; margin-left:-20px;"
+}
