@@ -15,3 +15,14 @@ ul {
 img {
   width="178.35" height="100"
 }
+
+
+html *
+{
+align="center"
+}
+
+div {
+   word-wrap: break-word;
+   width: 100px;
+}
